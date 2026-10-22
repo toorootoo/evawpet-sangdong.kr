@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>이바우펫 부천 상동점 | 부천 애견미용학원</title>
+    <link>https://evawpet-sangdong.kr/</link>
+    <atom:link href="https://evawpet-sangdong.kr/rss.xml" rel="self" type="application/rss+xml"/>
+    <description>부천 애견미용학원 이바우펫 부천 상동점. 7호선 상동역 4번 출구 도보 1분. 100% 가정견 실습, 개별 진도 수업, 장학지원으로 애견미용사 자격증부터 취업·창업까지.</description>
+    <language>ko</language>
+    <lastBuildDate>Thu, 22 Oct 2026 07:00:00 GMT</lastBuildDate>
+    <image>
+      <url>https://evawpet-sangdong.kr/favicon-192.png</url>
+      <title>이바우펫 부천 상동점</title>
+      <link>https://evawpet-sangdong.kr/</link>
+    </image>
+    <item>
+      <title>이바우펫 부천 상동점 오픈 기념 장학지원 특별 이벤트</title>
+      <link>https://evawpet-sangdong.kr/#contact</link>
+      <guid isPermaLink="false">evawpet-sangdong-open-event-2026-10</guid>
+      <pubDate>Thu, 22 Oct 2026 07:00:00 GMT</pubDate>
+      <description>부천 상동점 오픈을 기념해 오픈 기간 상담 신청자에게 특별 장학지원을 안내해 드려요. 7호선 상동역 4번 출구 도보 1분, 100% 가정견 실습으로 애견미용사 자격증부터 취업까지 함께해요.</description>
+    </item>
+    <item>
+      <title>부천 애견미용학원 이바우펫 상동점 | 기간·수강료·커리큘럼 안내</title>
+      <link>https://evawpet-sangdong.kr/</link>
+      <guid isPermaLink="true">https://evawpet-sangdong.kr/</guid>
+      <pubDate>Thu, 22 Oct 2026 07:00:00 GMT</pubDate>
+      <description>경기도 부천시 상동 544-1, 7층. 기초과정부터 자격증 취득반·실견 심화반·취업창업반까지, 평일 낮·저녁반과 토요반 운영. 수강료·장학지원은 상담으로 안내해 드려요.</description>
+    </item>
+  </channel>
+</rss>
